@@ -117,63 +117,6 @@ Features include:
 
 **Live:** https://enemzada.vercel.app
 
-### OnSign Challenge
-
-Web application developed as a technical challenge.
-
-**Technologies:**
-
-`React` `Vite` `JavaScript`
-
-Features include:
-
-- User search
-- Friends management
-- Interest-based recommendations
-- Map integration
-- API integration
-- Request retry mechanism
-
-**Live:** https://on-sign-challenge.vercel.app
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=grodrigues04&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodrigues04&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
-
-</div>
-
-<br>
-
-## Currently Learning
-
-<div align="center">
-
-`Software Engineering` · `Backend Architecture` · `Database Design` · `English` · `Japanese`
-
-</div>
-
-<br>
-
-## Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/gustavorodriguesb04">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/grodrigues04">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
 <br>
 
 <div align="center">
